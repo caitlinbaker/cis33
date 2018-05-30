@@ -1,0 +1,2 @@
+select Title from Movie where Status = 'Recalled';
+select Studio, Title, Price from Movie where Price > 1000;
